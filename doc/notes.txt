@@ -1,0 +1,18 @@
+Data Pipeline Project 
+Tools being used: Python, Docker, MySQL
+
+Local Café contacts me for building a pipeline delivering customer order info from CSV files: 
+Contains at least 100 orders of 3 types:
+1) Customer Cash Transactions (25/08/2021 09:00,Chesterfield,Richard Copeland,"Regular Flavoured iced latte - Hazelnut - 2.75, Large Latte - 2.45",5.2,CARD,5494173772652516)
+2) Customer Card Transaction (25/08/2021 09:08,Chesterfield,Michael Sparrow,"Regular Latte - 2.15, Large Latte - 2.45",4.6,CASH,)
+3) Malformed Transactions (25/08/2021 10:11,Chesterfield,Donald Wilson,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,9192463810678210) (no speech mark)
+For all of these remove Personally Identifiable Information (Names, Card No.)
+
+Roughly what I have to do is: Extract and Transform data from CSV files, Load them into SQL databases with the help of Docker (?)
+And with that comes the Docker Containers, SQL Adminer stuff which I don't understand
+
+App Project Instructions will take out after project is finished
+
+CAN SWITCH BETWEEN TABLE AND REGULAR BY CLICKING ON VSCODE SYMBOL ON TOP LEFT FOR CSV FILES
+
+DISABLED Office Viewer Extension 

@@ -1,0 +1,97 @@
+Date,Location,Customer Name,Items,Total,Payment Method,Card Number
+25/08/2021 08:45,Chesterfield,Sarah Doyle,"Large Latte - 2.45, Croissant - 1.85",4.3,CASH,
+25/08/2021 09:01,Chesterfield,Liam Armstrong,"Regular Flavoured iced latte - Vanilla - 2.75, Muffin - 1.50",4.25,CARD,4532123456789012
+25/08/2021 09:03,Chesterfield,Maya Patel,"Espresso - 1.50, Regular Latte - 2.15",3.65,CASH,
+25/08/2021 09:07,Chesterfield,George Bennett,"Regular Flavoured iced latte - Caramel - 2.75, Large Latte - 2.45",5.2,CARD,5111000000000011
+25/08/2021 09:09,Chesterfield,Olivia Green,Large Latte - 2.45,2.45,CARD,4321432143214321
+25/08/2021 09:10,Chesterfield,Daniel Hayes,"Regular Flavoured iced latte - Hazelnut - 2.75, Biscotti - 1.25",4,CASH,
+25/08/2021 09:12,Chesterfield,Emma Carter,"Americano - 2.15, Croissant - 1.85",4,CARD,10292019201929898
+25/08/2021 09:15,Chesterfield,Aiden Cook,"Regular Latte - 2.15, Cookie - 1.25",3.4,CASH,
+25/08/2021 09:17,Chesterfield,Nora Sutton,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,4000123412341234
+25/08/2021 09:20,Chesterfield,Jason Gilbert,"Large Latte - 2.45, Brownie - 1.95",4.4,CARD,09838924738438295754
+25/08/2021 09:23,Chesterfield,Ella Morton,"Regular Latte - 2.15, Biscotti - 1.25",3.4,CASH,
+25/08/2021 09:25,Chesterfield,Henry Cole,"Regular Latte - 2.15, Large Latte - 2.45",4.6,CARD,4512345678901234
+25/08/2021 09:30,Chesterfield,Naomi Clarke,"Regular Flavoured iced latte - Caramel - 2.75, Cookie - 1.25",4,CARD,389247834734782947
+25/08/2021 09:32,Chesterfield,Owen Walsh,Americano - 2.15,2.15,CASH,
+25/08/2021 09:35,Chesterfield,Lily Kerr,"Espresso - 1.50, Croissant - 1.85",3.35,CARD,5098765432101234
+25/08/2021 10:11,Chesterfield,Donald Wilson,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,9192463810678210
+25/08/2021 10:15,Chesterfield,Ben Clarkson,Regular Flavoured iced latte - Hazelnut - 2.75 Large Latte - 2.45,5.2,CARD,90238435375457843678
+25/08/2021 10:17,Chesterfield,Zara Williamson,Large Latte - 2.45 Cookie - 1.25,3.7,CARD,4532211122334455
+25/08/2021 10:20,Chesterfield,Nathan Reid,Regular Latte,2.15,CASH,
+25/08/2021 10:23,Chesterfield,Maddie Brooks,Espresso - 1.50 Regular Latte - 2.15,3.65,CARD,4000000000000000
+25/08/2021 10:25,Chesterfield,Lucas Evans,"Regular Latte - 2.15, Large Latte - 2.45",4.6,CASH,
+25/08/2021 10:27,Chesterfield,Ava Nixon,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,5111332244556677
+25/08/2021 10:29,Chesterfield,Noah Hughes,"Large Latte - 2.45, Cookie - 1.25",3.7,CARD,4532789102345678
+25/08/2021 10:32,Chesterfield,Chloe Foster,"Regular Latte - 2.15, Croissant - 1.85",4,CASH,
+25/08/2021 10:35,Chesterfield,Mason Webb,"Regular Flavoured iced latte - Hazelnut - 2.75, Brownie - 1.95",4.7,CARD,5112345678901234
+25/08/2021 10:37,Chesterfield,Zoe Freeman,"Large Latte - 2.45, Regular Latte - 2.15",4.6,CASH,
+25/08/2021 10:40,Chesterfield,Leo Morgan,"Americano - 2.15, Biscotti - 1.25",3.4,CARD,4012888888881881
+25/08/2021 10:42,Chesterfield,Mila Jennings,"Espresso - 1.50, Cookie - 1.25",2.75,CARD,4539211234567890
+25/08/2021 10:44,Chesterfield,Ethan Welch,"Regular Flavoured iced latte - Caramel - 2.75, Large Latte - 2.45",5.2,CASH,
+25/08/2021 10:47,Chesterfield,Ruby Douglas,"Large Latte - 2.45, Croissant - 1.85",4.3,CARD,6011555555555555
+25/08/2021 10:49,Chesterfield,James Atkinson,"Espresso - 1.50, Cookie - 1.25",2.75,CASH,
+25/08/2021 10:51,Chesterfield,Layla Hopkins,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,4007000000027
+25/08/2021 10:54,Chesterfield,Logan Park,"Regular Latte - 2.15, Brownie - 1.95",4.1,CARD,379200000000000
+25/08/2021 10:56,Chesterfield,Ivy Middleton,Large Latte - 2.45,2.45,CASH,
+25/08/2021 10:58,Chesterfield,Jacob Berry,Regular Flavoured iced latte - Caramel - 2.75 Large Latte - 2.45,5.2,CARD,5105105105105100
+25/08/2021 11:01,Chesterfield,Aria Maxwell,"Regular Latte - 2.15, Biscotti - 1.25",3.4,CASH,
+25/08/2021 11:03,Chesterfield,Oliver Kemp,Regular Latte - 2.15 Large Latte - 2.45,4.6,CARD,4024007103939509
+25/08/2021 11:05,Chesterfield,Sienna Pratt,Espresso - 1.50,1.5,CASH,
+25/08/2021 11:08,Chesterfield,William Barrett,Regular Flavoured iced latte - Hazelnut - 2.75 Cookie - 1.25,4,CARD,6011000990139424
+25/08/2021 11:10,Chesterfield,Eleanor Payne,"Americano - 2.15, Large Latte - 2.45",4.6,CASH,
+25/08/2021 11:12,Chesterfield,Benji Carter,"Large Latte - 2.45, Croissant - 1.85",4.3,CARD,379287000000000
+25/08/2021 11:15,Chesterfield,Freya Ellis,Regular Latte - 2.15 Biscotti - 1.25,3.4,CARD,5555555555554444
+25/08/2021 11:17,Chesterfield,Harvey Goodman,"Regular Latte - 2.15, Muffin - 1.50",3.65,CASH,
+25/08/2021 11:20,Chesterfield,Luna Marshall,"Espresso - 1.50, Regular Latte - 2.15",3.65,CARD,4111111111111111
+25/08/2021 11:23,Chesterfield,Charlie Barker,Regular Flavoured iced latte - Caramel - 2.75,2.75,CARD,6011111111111117
+25/08/2021 11:25,Chesterfield,Scarlett Dixon,"Americano - 2.15, Cookie - 1.25",3.4,CASH,
+25/08/2021 11:28,Chesterfield,Reuben Andrews,"Large Latte - 2.45, Biscotti - 1.25",3.7,CARD,3528000700000000
+25/08/2021 11:30,Chesterfield,Tobias Reeve,"Regular Latte - 2.15, Croissant - 1.85",4,CARD,4485123456789012
+25/08/2021 11:32,Chesterfield,Nancy Bowers,"Espresso - 1.50, Biscotti - 1.25",2.75,CASH,
+25/08/2021 11:35,Chesterfield,Kai Thornton,"Large Latte - 2.45, Muffin - 1.50",3.95,CARD,4716890000000000
+25/08/2021 11:37,Chesterfield,Isla Conway,Regular Latte - 2.15 Large Latte - 2.45,4.6,CARD,4119876543210001
+25/08/2021 11:40,Chesterfield,Alfie Rhodes,"Americano - 2.15, Cookie - 1.25",3.4,CASH,
+25/08/2021 11:42,Chesterfield,Eliza Preston,"Regular Flavoured iced latte - Hazelnut - 2.75, Croissant - 1.85",4.6,CARD,6011333344445555
+25/08/2021 11:45,Chesterfield,Joel Fenton,"Large Latte - 2.45, Regular Latte - 2.15",4.6,CASH,
+25/08/2021 11:47,Chesterfield,Daisy McBride,"Regular Latte - 2.15, Cookie - 1.25",3.4,CARD,5105105105105100
+25/08/2021 11:49,Chesterfield,Oscar Yates,"Espresso - 1.50, Muffin - 1.50",3,CASH,
+25/08/2021 11:52,Chesterfield,Eden Jarvis,Large Latte - 2.45 Cookie - 1.25,3.7,CARD,4000001234567890
+25/08/2021 11:54,Chesterfield,Jude Faulkner,Regular Latte - 2.15,2.15,CARD,4242424242424242
+25/08/2021 11:57,Chesterfield,Georgia Sykes,Regular Flavoured iced latte - Vanilla - 2.75,2.75,CASH,
+25/08/2021 11:59,Chesterfield,Leonard Sheppard,"Americano - 2.15, Large Latte - 2.45",4.6,CARD,3530111333300000
+25/08/2021 12:02,Chesterfield,Molly Kane,"Regular Latte - 2.15, Brownie - 1.95",4.1,CASH,
+25/08/2021 12:05,Chesterfield,Elliot Sawyer,Regular Latte - 2.15 Large Latte - 2.45,4.6,CARD,6011000000000004
+25/08/2021 12:07,Chesterfield,Lydia West,Espresso - 1.50,1.5,CASH,
+25/08/2021 12:10,Chesterfield,Tristan Lowe,Regular Flavoured iced latte - Hazelnut - 2.75 Croissant - 1.85,4.6,CARD,4444333322221111
+25/08/2021 12:12,Chesterfield,Florence Underwood,"Americano - 2.15, Muffin - 1.50",3.65,CARD,4111000000000001
+25/08/2021 12:14,Chesterfield,Caleb Rowe,"Regular Latte - 2.15, Cookie - 1.25",3.4,CASH,
+25/08/2021 12:16,Chesterfield,Matilda Pruitt,Large Latte - 2.45,2.45,CARD,4111111111111111
+25/08/2021 12:18,Chesterfield,Reggie Buckley,"Regular Flavoured iced latte - Caramel - 2.75, Biscotti - 1.25",4,CASH,
+25/08/2021 12:20,Chesterfield,Harriet Pickett,Espresso - 1.50,1.5,CARD,4012888888881881
+25/08/2021 12:23,Chesterfield,Nico Fry,"Americano - 2.15, Croissant - 1.85",4,CARD,6011555555555555
+25/08/2021 12:25,Chesterfield,Alice Black,Regular Latte - 2.15 Muffin - 1.50,3.65,CARD,4222222222222
+25/08/2021 12:27,Chesterfield,Archie Stafford,"Regular Latte - 2.15, Croissant - 1.85",4,CASH,
+25/08/2021 12:30,Chesterfield,Holly Dillard,"Regular Flavoured iced latte - Hazelnut - 2.75, Biscotti - 1.25",4,CARD,5424000000000015
+25/08/2021 12:32,Chesterfield,Roman Drury,Espresso - 1.50,1.5,CASH,
+25/08/2021 12:35,Chesterfield,Clara Dorsey,"Large Latte - 2.45, Regular Latte - 2.15",4.6,CARD,4111111143215678
+25/08/2021 12:38,Chesterfield,Maxine Pearce,"Regular Latte - 2.15, Muffin - 1.50",3.65,CASH,
+25/08/2021 12:40,Chesterfield,Theo Larkin,"Americano - 2.15, Cookie - 1.25",3.4,CARD,4000000077777777
+25/08/2021 12:42,Chesterfield,Poppy Sutherland,Regular Latte - 2.15 Croissant - 1.85,4,CARD,4916012345678901
+25/08/2021 12:45,Chesterfield,Blake Snow,Regular Flavoured iced latte - Caramel - 2.75,2.75,CASH,
+25/08/2021 12:47,Chesterfield,Iris Mathis,Large Latte - 2.45,2.45,CARD,6011000000000000
+25/08/2021 12:50,Chesterfield,Felix Harmon,Regular Latte - 2.15,2.15,CASH,
+25/08/2021 12:52,Chesterfield,Rosie Talbot,"Americano - 2.15, Brownie - 1.95",4.1,CARD,378282246310005
+25/08/2021 12:54,Chesterfield,Louis Platt,"Large Latte - 2.45, Biscotti - 1.25",3.7,CASH,
+25/08/2021 12:57,Chesterfield,Maisie Blackwell,Regular Flavoured iced latte - Hazelnut - 2.75,2.75,CARD,4532111111111111
+25/08/2021 13:00,Chesterfield,Zachary Wren,Espresso - 1.50 Cookie - 1.25,2.75,CARD,5200828282828210
+25/08/2021 13:03,Chesterfield,Bella McMahon,Regular Latte - 2.15 Muffin - 1.50,3.65,CASH,
+25/08/2021 13:05,Chesterfield,Harrison Peacock,"Regular Latte - 2.15, Large Latte - 2.45",4.6,CARD,4556737586899855
+25/08/2021 13:07,Chesterfield,Summer Bright,"Americano - 2.15, Croissant - 1.85",4,CASH,
+25/08/2021 13:10,Chesterfield,Wyatt Knowles,"Regular Flavoured iced latte - Vanilla - 2.75, Cookie - 1.25",4,CARD,6011987654321098
+25/08/2021 13:12,Chesterfield,Annabelle Rees,"Large Latte - 2.45, Brownie - 1.95",4.4,CARD,5200000000000007
+25/08/2021 13:15,Chesterfield,Xavier Milburn,"Regular Latte - 2.15, Biscotti - 1.25",3.4,CASH,
+25/08/2021 13:18,Chesterfield,Tilly Denton,Regular Latte - 2.15 Cookie - 1.25,3.4,CARD,4111111143215678
+25/08/2021 13:20,Chesterfield,Leon Jennings,"Espresso - 1.50, Regular Latte - 2.15",3.65,CARD,4007000000027
+25/08/2021 13:23,Chesterfield,Nina Reeve,"Regular Flavoured iced latte - Caramel - 2.75, Muffin - 1.50",4.25,CASH,
+25/08/2021 13:26,Chesterfield,Finley Goodwin,Americano - 2.15 Croissant - 1.85,4,CARD,6011222233334444
+25/08/2021 13:28,Chesterfield,Heidi Barlow,Regular Latte - 2.15,2.15,CASH,
