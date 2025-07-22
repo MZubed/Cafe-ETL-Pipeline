@@ -20,4 +20,35 @@ with open(filename, 'r') as file: #Opens file in read mode
         del rows['Customer Name'] #Deletes the Customer Names and Card Numbers to ensure privacy
         del rows['Card Number']
         print (rows)
-    
+
+
+
+#MYSQL DATABASES
+'''
+version: "3.8"
+services:
+  db:
+    image: mysql
+    container_name: mysql_container_etl
+    restart: always
+    environment:
+      MYSQL_PASSWORD: 'password'
+      MYSQL_ROOT_PASSWORD: "${mysql_pass}"
+      MYSQL_DATABASE: "${mysql_db}"
+    ports:
+      - "3306:3306"
+    security_opt:
+      - seccomp:unconfined
+    volumes:
+      - type: volume
+        source: my_db
+        target: /var/lib/mysql
+  adminer:
+    image: adminer
+    container_name: adminer_container_etl
+    restart: always
+    ports:
+      - 8080:8080
+volumes:
+  my_db:
+'''
