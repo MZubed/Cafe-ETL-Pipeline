@@ -22,7 +22,6 @@ with open(filename, 'r') as file: #Opens file in read mode
         print (rows)
 
 
-
 #MYSQL DATABASES
 '''
 version: "3.8"
